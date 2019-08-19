@@ -1,0 +1,4 @@
+squeue
+sbatch -p AMG /home/i.varlamova//LFP_scan_O4///25LFP-7-10-8.if.if.ifc.0/25LFP-7-10-8.if.if.ifc.0.run
+squeue
+mv run last_run
